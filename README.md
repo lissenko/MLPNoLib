@@ -7,6 +7,6 @@
 </p>
 
 <div align="center">
-  <img width="650" src="https://github.com/lissenko/MLPNoLib/blob/master/nn++.gif">
+  <img width="650" src="https://github.com/lissenko/MLPNoLib/blob/master/demo.gif">
 </div>
 
